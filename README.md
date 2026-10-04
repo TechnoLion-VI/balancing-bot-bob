@@ -5,22 +5,17 @@ A two-wheeled self-balancing LEGO robot controlled with a **PID balancing progra
 Bob stands upright on two wheels (an inverted pendulum) and uses the hub’s motion sensors plus motor feedback to stay balanced and drive around.
 
 <p align="center">
-  <img src="images/bob-front.png" alt="Bob balancing, front view" width="360" />
-  <img src="images/bob-side.png" alt="Bob balancing, side view" width="360" />
+  <img src="images/bob-front.jpg" alt="Bob front view with arrow on the light matrix" width="360" />
+  <img src="images/bob-side.jpg" alt="Bob side view" width="360" />
 </p>
 
 <p align="center">
-  <img src="images/bob-front-close.png" alt="Close-up of Bob’s LED face" width="360" />
-  <img src="images/bob-side-close.png" alt="Close-up side profile of Bob" width="360" />
-</p>
-
-<p align="center">
-  <img src="images/bob-front-smile.png" alt="Bob with smiling face on the light matrix" width="420" />
+  <img src="images/bob-rear.jpg" alt="Bob rear view" width="420" />
 </p>
 
 ## Hardware
 
-- LEGO MINDSTORMS Robot Inventor / SPIKE Prime style hub
+- LEGO SPIKE Prime hub
 - Two drive motors on ports **B** and **F**
 - Large wheels at the base so the hub stands vertically
 - Built-in accelerometer / gyro for pitch sensing
